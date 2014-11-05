@@ -1,0 +1,4 @@
+[root]
+name = "rust_docker_test"
+version = "0.0.1"
+
